@@ -1,0 +1,241 @@
+VENDOR_ID,VENDOR_NAME,PAYMENT_TERMS,STATE,ACTIVE_FLAG
+V-10001,North Star Printing LLC,Net 45,NY,Y
+V-10002,Granite City Cloud Solutions LLC,Net 60,IL,Y
+V-10003,Twin Cities Facilities Services Corporation,Net 60,MN,N
+V-10004,Arrowhead Facilities Services Inc.,Due on receipt,SD,Y
+V-10005,Riverbend Medical Supply Corporation,Due on receipt,WI,N
+V-10006,Superior Facilities Services Co.,Net 45,IA,N
+V-10007,Cedar Mechanical Contractors Co.,Due on receipt,ND,Y
+V-10008,Pioneer Cloud Solutions Corporation,Net 45,WI,Y
+V-10009,Great Lakes Electric Inc.,Net 60,IL,N
+V-10010,Mississippi Analytics Co.,Net 60,IA,Y
+V-10011,Granite City Technology Partners Partners,Net 45,SD,N
+V-10012,Prairie Printing Co.,Net 45,IA,N
+V-10013,Twin Cities Facilities Services Co.,Due on receipt,CA,N
+V-10014,Cedar Environmental Services Group,Net 60,NY,Y
+V-10015,Cedar Facilities Services Corporation,Due on receipt,IL,N
+V-10016,Iron Range Facilities Services LLC,Net 30,IA,Y
+V-10017,Northland Electric Co.,Net 30,ND,Y
+V-10018,Twin Cities Data Systems Group,Due on receipt,CA,Y
+V-10019,Heartland Analytics Corporation,Net 60,CA,Y
+V-10020,Midwest Software LLC,Net 30,MN,Y
+V-10021,Mississippi Research Services LLC,Net 45,WA,N
+V-10022,Red River Cloud Solutions Inc.,Net 30,ND,N
+V-10023,Riverbend Electric Group,Net 30,MN,N
+V-10024,Boreal Catering Group,Net 30,MN,N
+V-10025,Prairie Facilities Services Inc.,Net 60,MN,Y
+V-10026,Northland Technology Partners Inc.,Due on receipt,MN,Y
+V-10027,Gopher State Electric Partners,Due on receipt,ND,Y
+V-10028,Boreal Printing Group,Net 45,NY,N
+V-10029,Midwest Analytics Group,Net 60,IL,Y
+V-10030,Riverbend Engineering Group Corporation,Net 45,MN,Y
+V-10031,Pioneer Logistics Inc.,Net 45,MN,Y
+V-10032,North Star Laboratory Supply LLC,Net 45,WI,Y
+V-10033,Cedar Facilities Services Inc.,Net 60,NY,Y
+V-10034,Iron Range Technology Partners LLC,Due on receipt,MN,Y
+V-10035,Twin Cities Catering Group,Net 60,NY,Y
+V-10036,Midwest Research Services Inc.,Net 45,NY,N
+V-10037,Superior Consulting Group,Net 60,TX,Y
+V-10038,Riverbend Scientific Co.,Net 60,ND,N
+V-10039,Midwest Logistics Group,Net 60,SD,N
+V-10040,Mississippi Laboratory Supply Co.,Due on receipt,WA,Y
+V-10041,Pioneer Data Systems Inc.,Net 45,MN,Y
+V-10042,Superior Analytics LLC,Net 60,CA,Y
+V-10043,Superior Printing Partners,Net 60,IL,Y
+V-10044,Boreal Facilities Services Corporation,Net 60,ND,Y
+V-10045,Superior Instruments Inc.,Net 60,NY,Y
+V-10046,Pioneer Electric LLC,Net 60,CA,Y
+V-10047,North Star Analytics LLC,Net 45,CA,N
+V-10048,Iron Range Research Services Co.,Due on receipt,WA,N
+V-10049,Twin Cities Consulting Co.,Net 30,IA,Y
+V-10050,Boreal Technology Partners Partners,Net 45,NY,Y
+V-10051,Prairie Laboratory Supply Corporation,Due on receipt,NY,Y
+V-10052,Granite City Mechanical Contractors Co.,Net 60,TX,N
+V-10053,Midwest Logistics Corporation,Net 30,IA,Y
+V-10054,Arrowhead Data Systems Partners,Net 45,WI,Y
+V-10055,Heartland Environmental Services Partners,Net 45,MN,Y
+V-10056,Granite City Technology Partners LLC,Net 60,ND,Y
+V-10057,Twin Cities Instruments Corporation,Net 60,MN,Y
+V-10058,North Star Scientific Co.,Net 45,CA,Y
+V-10059,Iron Range Instruments Group,Due on receipt,SD,Y
+V-10060,Heartland Consulting Corporation,Net 45,MN,N
+V-10061,Pioneer Medical Supply Inc.,Net 30,NY,Y
+V-10062,Mississippi Scientific Group,Due on receipt,WI,Y
+V-10063,Prairie Research Services Corporation,Net 30,ND,N
+V-10064,Iron Range Facilities Services Partners,Net 60,WA,N
+V-10065,Riverbend Instruments Group,Net 60,MN,Y
+V-10066,Heartland Software Co.,Net 60,MN,Y
+V-10067,Twin Cities Technology Partners Group,Net 30,MN,Y
+V-10068,Cedar Engineering Group Inc.,Net 30,MN,N
+V-10069,Twin Cities Office Interiors Group,Net 60,MN,Y
+V-10070,Arrowhead Office Interiors Partners,Net 60,MN,Y
+V-10071,Pioneer Printing Group,Due on receipt,MN,Y
+V-10072,Gopher State Software Co.,Net 30,IA,Y
+V-10073,Superior Analytics Partners,Net 30,MN,Y
+V-10074,Gopher State Data Systems Co.,Net 45,IA,Y
+V-10075,Red River Analytics Group,Net 60,CA,Y
+V-10076,Riverbend Office Interiors Group,Net 30,NY,Y
+V-10077,Arrowhead Technology Partners Partners,Net 30,CA,Y
+V-10078,Riverbend Analytics LLC,Net 30,SD,N
+V-10079,Cedar Consulting Partners,Net 45,NY,Y
+V-10080,Midwest Environmental Services Corporation,Net 60,MN,Y
+V-10081,Pine Ridge Environmental Services Partners,Net 60,SD,Y
+V-10082,Boreal Electric Inc.,Net 60,MN,Y
+V-10083,Superior Medical Supply Inc.,Net 60,NY,Y
+V-10084,Pioneer Catering Group,Net 60,MN,Y
+V-10085,Northland Printing LLC,Net 60,MN,Y
+V-10086,Gopher State Catering Corporation,Net 45,IA,Y
+V-10087,Superior Office Interiors Co.,Due on receipt,IA,Y
+V-10088,Mississippi Medical Supply Corporation,Net 60,ND,Y
+V-10089,Lakeshore Catering LLC,Net 60,WA,Y
+V-10090,North Star Analytics Group,Net 45,NY,Y
+V-10091,Granite City Logistics Inc.,Net 45,ND,Y
+V-10092,Great Lakes Software Inc.,Due on receipt,MN,N
+V-10093,North Star Software Partners,Net 30,MN,Y
+V-10094,Arrowhead Data Systems Inc.,Net 30,ND,Y
+V-10095,Gopher State Cloud Solutions Co.,Net 60,IA,Y
+V-10096,Gopher State Technology Partners Group,Net 60,TX,Y
+V-10097,Gopher State Instruments Partners,Due on receipt,MN,N
+V-10098,Granite City Office Interiors Inc.,Due on receipt,NY,Y
+V-10099,Great Lakes Consulting Co.,Net 30,ND,Y
+V-10100,Cedar Analytics Partners,Net 60,IL,N
+V-10101,Lakeshore Instruments Group,Net 60,ND,Y
+V-10102,Heartland Office Interiors Co.,Net 45,SD,Y
+V-10103,Twin Cities Instruments Group,Due on receipt,CA,Y
+V-10104,Midwest Electric Inc.,Net 60,MN,N
+V-10105,Granite City Data Systems Partners,Net 60,WI,Y
+V-10106,Superior Catering LLC,Net 60,CA,N
+V-10107,Iron Range Technology Partners Corporation,Due on receipt,ND,Y
+V-10108,Great Lakes Logistics Group,Net 45,CA,Y
+V-10109,Great Lakes Medical Supply Group,Due on receipt,NY,Y
+V-10110,Lakeshore Data Systems Partners,Net 45,SD,N
+V-10111,Pioneer Environmental Services Partners,Net 45,MN,N
+V-10112,Pine Ridge Software Inc.,Due on receipt,MN,N
+V-10113,Mississippi Medical Supply Partners,Due on receipt,WA,N
+V-10114,Boreal Catering Inc.,Due on receipt,MN,N
+V-10115,Red River Electric Co.,Net 60,MN,Y
+V-10116,Lakeshore Instruments Corporation,Net 30,WA,Y
+V-10117,Gopher State Printing Inc.,Due on receipt,MN,N
+V-10118,Pioneer Mechanical Contractors Corporation,Net 60,SD,N
+V-10119,Twin Cities Electric Group,Net 60,MN,Y
+V-10120,Pioneer Office Interiors Co.,Due on receipt,ND,N
+V-10121,Northland Medical Supply Co.,Net 60,TX,Y
+V-10122,Mississippi Cloud Solutions Corporation,Net 60,WA,Y
+V-10123,Midwest Medical Supply Corporation,Net 60,CA,Y
+V-10124,Granite City Logistics Corporation,Net 45,IL,N
+V-10125,Pine Ridge Cloud Solutions Inc.,Net 45,IL,Y
+V-10126,Pioneer Facilities Services Corporation,Net 30,WA,Y
+V-10127,Boreal Instruments LLC,Net 60,MN,N
+V-10128,Riverbend Analytics Corporation,Net 45,ND,Y
+V-10129,Heartland Medical Supply Co.,Net 60,ND,Y
+V-10130,Great Lakes Office Interiors Partners,Net 45,NY,Y
+V-10131,Gopher State Catering Group,Net 30,SD,Y
+V-10132,Iron Range Consulting Group,Net 60,MN,Y
+V-10133,Heartland Instruments LLC,Net 30,IL,Y
+V-10134,Pine Ridge Analytics Partners,Net 30,IL,Y
+V-10135,Pine Ridge Technology Partners Group,Net 60,WI,Y
+V-10136,Gopher State Printing Group,Net 30,CA,Y
+V-10137,Heartland Engineering Group Inc.,Net 60,SD,Y
+V-10138,Twin Cities Cloud Solutions Partners,Due on receipt,ND,Y
+V-10139,Pioneer Mechanical Contractors Group,Net 60,NY,N
+V-10140,Great Lakes Laboratory Supply Partners,Due on receipt,SD,N
+V-10141,Arrowhead Logistics Partners,Due on receipt,MN,N
+V-10142,Prairie Software Partners,Due on receipt,WI,Y
+V-10143,Midwest Scientific Group,Due on receipt,WI,N
+V-10144,Superior Logistics LLC,Net 30,NY,Y
+V-10145,Lakeshore Office Interiors Corporation,Due on receipt,WI,N
+V-10146,Iron Range Electric Partners,Net 45,MN,N
+V-10147,Mississippi Office Interiors Co.,Net 45,TX,Y
+V-10148,Superior Electric LLC,Due on receipt,CA,N
+V-10149,Pine Ridge Research Services Partners,Due on receipt,MN,Y
+V-10150,Northland Research Services Inc.,Net 45,MN,N
+V-10151,Cedar Consulting Group,Net 30,WI,Y
+V-10152,Great Lakes Catering Co.,Net 45,TX,Y
+V-10153,Granite City Analytics LLC,Due on receipt,WI,N
+V-10154,Great Lakes Medical Supply Co.,Net 60,CA,Y
+V-10155,Great Lakes Engineering Group Group,Net 30,CA,Y
+V-10156,Boreal Electric Partners,Net 30,SD,N
+V-10157,Red River Catering Corporation,Net 30,IA,Y
+V-10158,Boreal Office Interiors LLC,Net 30,IA,Y
+V-10159,Arrowhead Scientific LLC,Net 45,ND,Y
+V-10160,Granite City Medical Supply Corporation,Net 60,SD,Y
+V-10161,Northland Analytics Inc.,Net 30,ND,N
+V-10162,Granite City Instruments Group,Net 30,IA,N
+V-10163,Prairie Technology Partners Partners,Due on receipt,WI,Y
+V-10164,Red River Logistics LLC,Due on receipt,IA,Y
+V-10165,Pine Ridge Catering Corporation,Net 45,IL,Y
+V-10166,Superior Medical Supply Corporation,Net 60,CA,N
+V-10167,Cedar Facilities Services Co.,Net 30,SD,N
+V-10168,Mississippi Technology Partners Group,Net 45,TX,Y
+V-10169,Iron Range Environmental Services LLC,Due on receipt,SD,N
+V-10170,Gopher State Software Corporation,Due on receipt,MN,Y
+V-10171,Lakeshore Cloud Solutions Corporation,Due on receipt,NY,Y
+V-10172,Midwest Facilities Services LLC,Net 30,CA,Y
+V-10173,Great Lakes Environmental Services Group,Net 45,WI,Y
+V-10174,Boreal Facilities Services LLC,Net 60,MN,Y
+V-10175,Heartland Electric LLC,Net 30,MN,N
+V-10176,Heartland Cloud Solutions Co.,Net 60,WI,N
+V-10177,Twin Cities Facilities Services Inc.,Net 60,NY,Y
+V-10178,Pioneer Technology Partners Group,Net 45,CA,Y
+V-10179,Boreal Logistics Corporation,Due on receipt,CA,Y
+V-10180,Granite City Engineering Group Corporation,Net 60,CA,N
+V-10181,Twin Cities Software LLC,Net 30,NY,Y
+V-10182,Superior Medical Supply Partners,Net 60,NY,Y
+V-10183,Northland Technology Partners Group,Net 45,NY,Y
+V-10184,Pine Ridge Software Co.,Net 30,MN,Y
+V-10185,Lakeshore Printing Partners,Net 30,TX,N
+V-10186,Prairie Mechanical Contractors Inc.,Net 30,MN,N
+V-10187,Twin Cities Technology Partners Co.,Net 60,WI,N
+V-10188,Northland Environmental Services LLC,Net 30,CA,N
+V-10189,Mississippi Logistics Inc.,Due on receipt,CA,Y
+V-10190,Arrowhead Environmental Services Corporation,Net 45,MN,N
+V-10191,Gopher State Logistics LLC,Due on receipt,SD,Y
+V-10192,Twin Cities Cloud Solutions Co.,Net 60,IA,Y
+V-10193,Boreal Environmental Services Group,Net 45,MN,Y
+V-10194,Northland Data Systems Inc.,Due on receipt,ND,N
+V-10195,Riverbend Analytics Co.,Net 45,WA,Y
+V-10196,Midwest Technology Partners Inc.,Net 30,WI,Y
+V-10197,Great Lakes Software Co.,Net 30,SD,Y
+V-10198,Northland Consulting Inc.,Net 30,MN,Y
+V-10199,Heartland Cloud Solutions LLC,Net 30,MN,Y
+V-10200,Twin Cities Catering LLC,Due on receipt,CA,Y
+V-10201,Riverbend Technology Partners LLC,Net 30,CA,N
+V-10202,Pine Ridge Technology Partners Co.,Due on receipt,WI,Y
+V-10203,Prairie Analytics Group,Net 45,CA,N
+V-10204,Arrowhead Cloud Solutions Co.,Due on receipt,TX,Y
+V-10205,North Star Data Systems Co.,Net 45,WI,Y
+V-10206,Arrowhead Printing LLC,Net 60,WA,Y
+V-10207,North Star Laboratory Supply Inc.,Net 60,NY,Y
+V-10208,Lakeshore Research Services Partners,Net 30,IA,Y
+V-10209,Cedar Facilities Services Partners,Net 30,IL,N
+V-10210,Prairie Research Services Inc.,Net 45,ND,Y
+V-10211,Gopher State Scientific Corporation,Net 60,CA,N
+V-10212,Iron Range Instruments Partners,Due on receipt,WA,Y
+V-10213,Boreal Facilities Services Group,Net 45,IA,Y
+V-10214,Arrowhead Laboratory Supply Inc.,Net 30,CA,Y
+V-10215,Northland Data Systems Corporation,Net 30,MN,Y
+V-10216,Northland Facilities Services Corporation,Net 60,WA,Y
+V-10217,Red River Data Systems Group,Net 45,MN,Y
+V-10218,Lakeshore Logistics Inc.,Net 30,CA,Y
+V-10219,Boreal Printing Inc.,Net 45,MN,N
+V-10220,Heartland Mechanical Contractors LLC,Due on receipt,CA,Y
+V-10221,Midwest Data Systems Group,Due on receipt,MN,Y
+V-10222,Granite City Engineering Group Co.,Net 30,MN,Y
+V-10223,Boreal Mechanical Contractors Partners,Net 30,SD,N
+V-10224,Great Lakes Mechanical Contractors LLC,Due on receipt,NY,Y
+V-10225,Granite City Data Systems Co.,Net 45,SD,Y
+V-10226,Mississippi Software Inc.,Net 60,MN,Y
+V-10227,Granite City Instruments LLC,Due on receipt,MN,Y
+V-10228,Great Lakes Electric LLC,Net 45,NY,Y
+V-10229,Arrowhead Laboratory Supply Group,Due on receipt,MN,Y
+V-10230,Boreal Laboratory Supply Inc.,Net 45,MN,N
+V-10231,Mississippi Laboratory Supply Inc.,Net 45,NY,Y
+V-10232,Boreal Electric Group,Net 60,ND,Y
+V-10233,North Star Technology Partners Corporation,Net 60,MN,Y
+V-10234,Riverbend Facilities Services LLC,Net 30,IL,Y
+V-10235,Twin Cities Electric Inc.,Net 45,SD,Y
+V-10236,Heartland Engineering Group LLC,Net 45,WA,Y
+V-10237,Granite City Medical Supply LLC,Net 30,IL,N
+V-10238,Lakeshore Office Interiors LLC,Net 45,IL,Y
+V-10239,Granite City Data Systems Corporation,Net 45,WA,Y
+V-10240,Twin Cities Mechanical Contractors LLC,Net 60,TX,N

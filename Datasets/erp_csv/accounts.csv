@@ -1,0 +1,41 @@
+ACCOUNT_CODE,ACCOUNT_NAME,ACCOUNT_TYPE,NORMAL_BALANCE
+11000,Cash and Cash Equivalents,Asset,Debit
+11200,Short-Term Investments,Asset,Debit
+12000,Accounts Receivable,Asset,Debit
+12100,Grants Receivable,Asset,Debit
+13000,Prepaid Expenses,Asset,Debit
+15000,Equipment,Asset,Debit
+15100,Accumulated Depreciation,Asset,Debit
+21000,Accounts Payable,Liability,Credit
+21100,Accrued Payroll,Liability,Credit
+22000,Deferred Tuition Revenue,Liability,Credit
+23000,Bonds Payable,Liability,Credit
+31000,Unrestricted Net Position,Equity,Credit
+32000,Restricted Net Position,Equity,Credit
+41000,Tuition Revenue,Revenue,Credit
+41100,Student Fee Revenue,Revenue,Credit
+42000,State Appropriation,Revenue,Credit
+43000,Federal Grant Revenue,Revenue,Credit
+43100,Private Grant Revenue,Revenue,Credit
+44000,Gift Revenue,Revenue,Credit
+45000,Auxiliary Sales,Revenue,Credit
+46000,Investment Income,Revenue,Credit
+47000,Indirect Cost Recovery,Revenue,Credit
+51000,Faculty Salaries,Expense,Debit
+51100,Staff Salaries,Expense,Debit
+51200,Student Wages,Expense,Debit
+52000,Fringe Benefits,Expense,Debit
+53000,Supplies and Materials,Expense,Debit
+53100,Laboratory Supplies,Expense,Debit
+54000,Travel,Expense,Debit
+55000,Professional Services,Expense,Debit
+55100,Software Subscriptions,Expense,Debit
+55200,Cloud Services,Expense,Debit
+56000,Utilities,Expense,Debit
+57000,Repairs and Maintenance,Expense,Debit
+58000,Equipment Purchases,Expense,Debit
+58100,Depreciation Expense,Expense,Debit
+59000,Scholarships and Fellowships,Expense,Debit
+59100,Interest Expense,Expense,Debit
+59200,Insurance,Expense,Debit
+59300,Telecommunications,Expense,Debit

@@ -1,0 +1,81 @@
+COST_CENTER_CODE,COST_CENTER_NAME,CAMPUS,CENTER_TYPE,ACTIVE_FLAG
+CC-1001,Office of the Registrar,Morris,Auxiliary,Y
+CC-1002,Admissions Operations,Rochester,Auxiliary,Y
+CC-1003,Bursar Services,Crookston,Administrative,Y
+CC-1004,Financial Aid Processing,Twin Cities,Research,Y
+CC-1005,Facilities Management,Twin Cities,Administrative,Y
+CC-1006,Campus Safety,Duluth,Auxiliary,Y
+CC-1007,Research Administration,Twin Cities,Academic,Y
+CC-1008,Sponsored Projects,Morris,Auxiliary,Y
+CC-1009,Information Technology Infrastructure,Rochester,Administrative,Y
+CC-1010,Enterprise Applications,Duluth,Auxiliary,Y
+CC-1011,Libraries Technical Services,Twin Cities,Auxiliary,Y
+CC-1012,Housing and Residential Life,Rochester,Research,Y
+CC-1013,Dining Services,Crookston,Academic,Y
+CC-1014,Athletics Operations,Morris,Academic,Y
+CC-1015,Human Resources Operations,Duluth,Academic,Y
+CC-1016,Payroll Services,Twin Cities,Academic,Y
+CC-1017,Procurement Services,Twin Cities,Auxiliary,Y
+CC-1018,Controller's Office,Rochester,Auxiliary,Y
+CC-1019,Environmental Health and Safety,Duluth,Auxiliary,Y
+CC-1020,Graduate School Administration,Twin Cities,Administrative,Y
+CC-1021,Extension Services,Crookston,Administrative,Y
+CC-1022,Student Health Services,Morris,Research,Y
+CC-1023,Parking and Transportation,Rochester,Research,Y
+CC-1024,Printing Services,Morris,Research,Y
+CC-1025,Alumni Relations,Twin Cities,Research,Y
+CC-1026,University Communications,Twin Cities,Research,Y
+CC-1027,Capital Planning,Rochester,Administrative,Y
+CC-1028,Energy Management,Twin Cities,Administrative,Y
+CC-1029,Surplus Services,Twin Cities,Administrative,Y
+CC-1030,Mail Services,Crookston,Auxiliary,Y
+CC-1031,Biology Department,Crookston,Academic,Y
+CC-1032,Chemistry Department,Rochester,Administrative,Y
+CC-1033,Physics Department,Twin Cities,Auxiliary,Y
+CC-1034,Mathematics Department,Crookston,Auxiliary,Y
+CC-1035,Computer Science Department,Twin Cities,Research,Y
+CC-1036,Mechanical Engineering,Rochester,Research,Y
+CC-1037,Civil Engineering,Twin Cities,Administrative,Y
+CC-1038,Electrical Engineering,Duluth,Academic,Y
+CC-1039,History Department,Twin Cities,Auxiliary,Y
+CC-1040,English Department,Duluth,Academic,Y
+CC-1041,Economics Department,Rochester,Auxiliary,Y
+CC-1042,Sociology Department,Twin Cities,Auxiliary,Y
+CC-1043,Psychology Department,Rochester,Auxiliary,Y
+CC-1044,Nursing School Operations,Twin Cities,Research,Y
+CC-1045,Pharmacy School Operations,Twin Cities,Administrative,Y
+CC-1046,Veterinary Medicine Operations,Morris,Administrative,Y
+CC-1047,Law School Operations,Morris,Administrative,Y
+CC-1048,Business School Operations,Rochester,Administrative,Y
+CC-1049,Public Health Operations,Duluth,Academic,Y
+CC-1050,Education School Operations,Twin Cities,Academic,Y
+CC-1051,Agronomy and Plant Genetics,Twin Cities,Auxiliary,Y
+CC-1052,Animal Science,Twin Cities,Research,Y
+CC-1053,Food Science and Nutrition,Morris,Academic,Y
+CC-1054,Forest Resources,Twin Cities,Auxiliary,Y
+CC-1055,"Soil, Water, and Climate",Morris,Academic,Y
+CC-1056,Dental School Operations,Twin Cities,Administrative,Y
+CC-1057,Medical School Administration,Duluth,Research,Y
+CC-1058,Clinical Research Support,Duluth,Auxiliary,Y
+CC-1059,Genomics Core Operations,Twin Cities,Administrative,Y
+CC-1060,Supercomputing Operations,Morris,Academic,Y
+CC-1061,Duluth Campus Operations,Rochester,Auxiliary,Y
+CC-1062,Morris Campus Operations,Crookston,Academic,Y
+CC-1063,Crookston Campus Operations,Rochester,Academic,Y
+CC-1064,Rochester Campus Operations,Rochester,Auxiliary,Y
+CC-1065,Central Reserves,Rochester,Academic,Y
+CC-1066,Debt Service,Twin Cities,Auxiliary,Y
+CC-1067,Insurance and Risk,Morris,Research,Y
+CC-1068,Internal Audit,Twin Cities,Research,Y
+CC-1069,General Counsel,Twin Cities,Academic,Y
+CC-1070,Board Office,Morris,Administrative,Y
+CC-1071,President's Office,Twin Cities,Academic,Y
+CC-1072,Provost's Office,Twin Cities,Academic,Y
+CC-1073,Student Affairs,Duluth,Auxiliary,Y
+CC-1074,Equity and Diversity,Rochester,Auxiliary,Y
+CC-1075,Global Programs,Morris,Auxiliary,Y
+CC-1076,Continuing Education,Morris,Auxiliary,Y
+CC-1077,Technology Commercialization,Morris,Administrative,Y
+CC-1078,Research Computing,Rochester,Administrative,Y
+CC-1079,Data Governance Office,Twin Cities,Research,Y
+CC-1080,Business Intelligence,Crookston,Administrative,Y
